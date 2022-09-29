@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![home-form-tabs](https://user-images.githubusercontent.com/106191555/192924027-561102ae-ca04-4240-a918-d53cc4bd9a3d.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
