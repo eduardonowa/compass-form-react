@@ -69,6 +69,7 @@ const Basic = (props) => {
         document.getElementById(item).value = storageValue;
       }
     }
+    // eslint-disable-next-line
   }, []);
 
   useEffect(() => {

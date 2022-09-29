@@ -31,6 +31,7 @@ const Buttons = (props) => {
       setImgTwo(Vector);
       setImgTwoAlt("Vector icon");
     }
+    // eslint-disable-next-line
   }, []);
 
   return (
